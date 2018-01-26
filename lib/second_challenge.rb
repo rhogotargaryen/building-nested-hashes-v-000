@@ -11,7 +11,7 @@ def second_challenge
       patriarch: {},
       matriarch: {},
       hero: {},
-      hero_friends: []
+      heroione_friends: []
       #your key/value pairs here!
       }}
 
